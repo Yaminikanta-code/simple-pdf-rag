@@ -1,4 +1,4 @@
-servives:
+services:
   qdrqnt:
     image: qdrant/qdrant
     ports:
